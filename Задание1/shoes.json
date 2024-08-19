@@ -1,0 +1,42 @@
+[
+  {
+    "sex": "Муж",
+    "type_shoes": "Кроссовки",
+    "color": "Красный",
+    "price": 5000,
+    "maker": "Adidas",
+    "size": 43
+  },
+  {
+    "sex": "Жен",
+    "type_shoes": "Сапоги",
+    "color": "Синий",
+    "price": 6541,
+    "maker": "Vienna",
+    "size": 39
+  },
+  {
+    "sex": "Муж",
+    "type_shoes": "Сандали",
+    "color": "Коричневый",
+    "price": 564,
+    "maker": "Витязь",
+    "size": 44
+  },
+  {
+    "sex": "Жен",
+    "type_shoes": "Туфли",
+    "color": "Красный",
+    "price": 8416,
+    "maker": "Terranova",
+    "size": 39
+  },
+  {
+    "sex": "Муж",
+    "type_shoes": "Кроссовки",
+    "color": "Белый",
+    "price": 7412,
+    "maker": "Nike",
+    "size": 44
+  }
+]
